@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "document.size.pj",
+      "type": "java.lang.String",
+      "description": "Description for document.size.pj."
+    },
+    {
+      "name": "document.size.pf",
+      "type": "java.lang.String",
+      "description": "Description for document.size.pf."
+    },
+    {
+      "name": "rabbit.account.queue",
+      "type": "java.lang.String",
+      "description": "Description for rabbit.account.queue."
+    },
+    {
+      "name": "rabbit.bank.exchange",
+      "type": "java.lang.String",
+      "description": "Description for rabbit.bank.exchange."
+    }
+  ]
+}
